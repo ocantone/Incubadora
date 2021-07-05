@@ -1,8 +1,9 @@
 /**
 INCUBADORA TATO V1.0
-USa las siguientes bibliotecas Arduino:
+Usa las siguientes bibliotecas Arduino:
 - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
 - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
+- Sin conectividad
 **/
 
 #include <Arduino.h>
