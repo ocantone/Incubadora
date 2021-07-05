@@ -4,7 +4,7 @@ Usa las siguientes bibliotecas Arduino:
 - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
 - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
 - Sin conectividad
-ESTA VERSION FUE EDITADA DESDE GitHub
+ESTA VERSION FUE EDITADA DESDE GitHub.
 **/
 
 #include <Arduino.h>
